@@ -12,7 +12,7 @@ Spring Scheduler를 통해서 1분마다 DB에 할인 적용 가격 업데이트
 
 ![할인률 로직](https://github.com/GunWooJung/READMEImage/blob/main/%ED%95%A0%EC%9D%B8%EB%A5%A0.JPG)
 
-## 🎯 담당 기능(관리자 페이지의 Admin과 Seller 중 Admin 담당)
+## 🎯 담당 역할(관리자 페이지 Admin과 Seller 중 Admin 담당)
 
 - **로그인 페이지**: 사용자가 사이트 관리자(Admin) 및 티켓 판매자(Seller)로 로그인할 수 있는 기능을 구현했습니다.
 - **사이트 관리자 기능(Admin)**: 관리자는 회원 관리, 공지 사항 관리, 기대평 및 공연평 관리를 할 수 있습니다.
