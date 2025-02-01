@@ -2,6 +2,8 @@
 
 📍 **연극 티켓 자동 할인 플랫폼**
 
+![관리자페이지](https://github.com/GunWooJung/READMEImage/blob/main/30ticketadmin.jpg)
+
 30 Ticket은 연극 관계자가 설정한 할인률과 할인 시간대에 맞춰 자동으로 할인 정보를 갱신하는 플랫폼입니다. 이를 통해 관객들에게 실시간으로 연극 티켓 할인 혜택을 제공하고, 티켓 판매를 촉진합니다.
 
 ## 💸 할인률 로직
