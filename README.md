@@ -22,7 +22,7 @@ Spring Scheduler를 통해서 1분마다 DB에 할인 적용 가격 업데이트
 ## 📄 기술 스택
 
 - **프론트엔드**: HTML, CSS, JavaScript, jQuery, Thymeleaf
-- **백엔드**: Spring Boot, MySQL, JPA, Mybatis, Naver Cloud Platform
+- **백엔드**: Spring Boot, MySQL, JPA, MyBatis, Naver Cloud Platform
 - **보안**: SSL 인증서
 
 ---
