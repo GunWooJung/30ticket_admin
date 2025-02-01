@@ -60,4 +60,6 @@ Spring Scheduler를 통해서 1분마다 DB에 할인 적용 가격 업데이트
 ## 📺 시연 영상 및 문서
 
 📌 **시연 영상**: [YouTube 링크](https://youtu.be/eqWKif0CrNo)  
-📌 **E-R 다이어그램**: [ERD Cloud 링크](https://www.erdcloud.com/d/3qEjeya7k7k6XxfYu)
+📌 **E-R 다이어그램**:
+
+![ERD](https://github.com/GunWooJung/READMEImage/blob/main/erd.png)
